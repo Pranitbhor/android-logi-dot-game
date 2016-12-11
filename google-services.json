@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1051982156383",
+    "firebase_url": "https://logic-dot.firebaseio.com",
+    "project_id": "logic-dot",
+    "storage_bucket": "logic-dot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051982156383:android:05286f22f1e1394e",
+        "android_client_info": {
+          "package_name": "com.kurvamgames.logicdotgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051982156383-8qlm9nfhl0g1avgs12h74tiv1t8ufa7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTeymWz6bzrq1_GAyunGQY5nmudgxkXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

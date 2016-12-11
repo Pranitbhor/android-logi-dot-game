@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-logic-dot-game\\build\\intermediates\\res\\merged\\debug\\xml\\changelog.xml",
+        "source": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-logic-dot-game\\build\\intermediates\\exploded-aar\\de.cketti.library.changelog\\ckchangelog\\1.2.2\\res\\xml\\changelog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranit\\AndroidStudioProjects\\Logic Dot\\build\\intermediates\\res\\merged\\debug\\xml\\changelog.xml",
+        "source": "C:\\Users\\Pranit\\AndroidStudioProjects\\Logic Dot\\build\\intermediates\\exploded-aar\\de.cketti.library.changelog\\ckchangelog\\1.2.2\\res\\xml\\changelog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranit\\AndroidStudioProjects\\Logic Dot\\build\\intermediates\\res\\merged\\debug\\xml\\changelog_master.xml",
+        "source": "C:\\Users\\Pranit\\AndroidStudioProjects\\Logic Dot\\res\\xml\\changelog_master.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-logic-dot-game\\build\\intermediates\\res\\merged\\debug\\xml\\changelog_master.xml",
+        "source": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-logic-dot-game\\res\\xml\\changelog_master.xml"
+    }
+]

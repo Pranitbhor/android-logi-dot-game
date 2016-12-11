@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_1628d88a447a7ece24eb72029fcac68a9f58f2f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_e6ead5e85dda6a4f8431dbfa22a2d12678791eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_2c43ba74f252aadcc8d4eecacad39fa8d0c18fa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_889c44ba94cab8ade65aad4f950a90c2a75418b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_7a70d5221e3975c9f78ef70b9907cee733464eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_2f28202b0eace4105cd37192230c8e7518cd66ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\de.cketti.library.changelog\ckchangelog\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="99fd3d6d721379e2b159310cfd7854c59065344a">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\de.cketti.library.changelog-ckchangelog-1.2.2_c3656d4d86961c600512a87ddef3baa23ffceb42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_d2010244179ab9c8127b3e5a319e96de9520920c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_d127426a2cf74e1d6aeaf412d63cc70dfa97b4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a013bcd0fa6116996e29d4793fd16685a01e73b8">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\instant-run_825d5cf3567b7b73faf49e56b1dccd079e181ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_95085497ab6ab21b474b77dff0cc59a91530e1e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_08b33e2d99b746115423ea314ad6bfea8f9b90a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_c51e52e85e7bef64360277574528bc8abcf037eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f0055eadeff9af55453796f7e08b3891b3ff72d7">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8e8e798c16bc63c6147f1467d4a6e5a0c9ca48e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\Logic Dot\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_e0270af76a50fe5e8e32546d7491de3a621599f0.jar" />
+    </item>
+
+</items>
